@@ -1,6 +1,6 @@
 # Tool Learning Log
 
-## Tool: **Phaser**
+## Tool: **Impact**
 
 ## Project: **Gardening**
 
@@ -8,8 +8,16 @@
 * Text
 ### X/X/XX:
 * Text
-### X/X/XX:
-* Text
+
+### 11/18/24 - 11/25/24:
+- The link to the tutorial that I was using is (https.//www.youtube.com/watch?v=hMXWImAuim8)
+    - I finished the tutorial
+    - made ping pong with different assets.
+- Though there is a problem.
+    - The game broke
+    - I followed tutorial exacting, but the weltmeister.html file isn't working
+    - That part is different from the tutorial even though neither of us changed it.
+
 ### 10/28/24 - 11/3/24
 - So I did learn some stuff, but there's a problem which is I forgot to link the video on the tutorial I was following so I need to find it.
 - But still learned some things about impact js.
