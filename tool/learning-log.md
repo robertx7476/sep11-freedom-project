@@ -6,8 +6,16 @@
 
 ### X/X/XX:
 * Text
-### X/X/XX:
-* Text
+### 12/2/24-12/9/24:
+- Saw a video on optimization for impact
+    - there is lots for loops, strings, and return
+- Another game made with Impact had
+    - Friction is used, animation, and type
+    - they also named some like, fireDelay, and fireRate, Invincible, and weapon.
+- Also saw how the creator used strings and arrays in their code.
+- I tried fixing the weltmeister, but like I wrote before, previously didn't touch it and the first tutorial didn't touch it, yet we have different results.
+- The weltmeister folder has another folder with many files.
+    - Like pngs that I don't use but could be useful in the future.
 
 ### 11/18/24 - 11/25/24:
 - The link to the tutorial that I was using is (https.//www.youtube.com/watch?v=hMXWImAuim8)
