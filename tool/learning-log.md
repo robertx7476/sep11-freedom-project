@@ -4,8 +4,48 @@
 
 ## Project: **Gardening**
 
-### X/X/XX:
-* Text
+### 2/24/25-3/2/25:
+- Kiara made the starting area for the gardening game.
+    - She put the code to make the background in the game & added movement and the background img into the game.
+    - She also setted up a bit of animation.
+- Separately, I did other coding.
+    - I tested how to animate jumping.
+        - **animation: jump 500ms infinite**
+        - which animates jumping, for 500 milliseconds or .5 of a second, which goes on forever.
+    - I think Kiara is doing movement with a mouse, but I know how to make keys work like wasd or arrow keys if we wanted to switch.
+        - It'll be `arrow.addEventListener("keydown",)
+        - And making it for all four or eight keys.
+        - `var press = "event.type == "keydown")?true:false;`
+        - and connected to additional code.
+    - Also saw how velocity works
+        - The example given is
+        ```
+        if (controller.up && rectangle.jumping == false) {
+            rectangle.y_velocity -= 20;
+            rectangle.jumping = true;
+        }
+        if (controller.left) {
+            rectangle.x_velocity = 0.5;
+        }
+        if (controller.right) {
+            rectangle.x velocity += 0.5;
+        }
+        ```
+        - Which shows the sprite sliding a little after the key is pressed.
+        - The last two if statements are for when the right or left key is pressed.
+        - Friction & gravity is also shown.
+        ```
+        rectangle.y_velocity += 1.5;
+        rectangle.x += rectangle.x_velocity;
+        rectangle.y += rectangle.y_velocity;
+        rectangle.x_velocity *= 0.9;
+        rectangle.y_velocity *= 0.9;
+        ```
+        - The first three are affecting the gravity of the sprite.
+        - The last two are the friction being applied to the velocity when the key is being pressed.
+    - These are some new stuff I learned and will probably add if we decide to do arrow keys or wasd.
+    - Because I think wasd and arrow keys are going to be easier to control the sprite than the mouse dragging across the screen.
+    - 
 ### 12/2/24-12/9/24:
 - Saw a video on optimization for impact
     - there is lots for loops, strings, and return
