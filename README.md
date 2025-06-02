@@ -28,5 +28,3 @@ Below you will find my many blogs on about how I made my project.
 * [Entry 4](blog/entry04.md)
 * [Entry 5](blog/entry05.md)
 * [Entry 6](blog/entry06.md)
-* [Entry 7](blog/entry07.md)
-* [Entry 8](blog/entry08.md)
