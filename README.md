@@ -18,6 +18,7 @@ For my project, I chose to independently study the tool **impact** to help me ma
 * Helps practice quick thinking and reflexes.
 ##### CONS
 * Makes people stare at their device.
+* And the more people use their devices, the more there is an environmental impact. 
 
 ## Blog
 Below you will find my many blogs on about how I made my project.
